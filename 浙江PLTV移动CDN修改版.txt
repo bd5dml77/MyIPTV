@@ -190,8 +190,8 @@ NewTV金牌综艺 4M1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/P
 黑屏 1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230944/01.m3u8?fmt=ts2hls
 CCTV1 576,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228449/01.m3u8?fmt=ts2hls
 CCTV1 576,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/01.m3u8?fmt=ts2hls
-CCTV1 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/01.m3u8?fmt=ts2hls
-CCTV1 720,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228591/index.m3u8
+CCTV1 1080,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/01.m3u8?fmt=ts2hls
+CCTV3 720,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228591/index.m3u8
 CCTV1 720,http://39.134.176.157/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228650/index.m3u8
 CCTV2 576,http://39.134.176.157/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228452/01.m3u8?fmt=ts2hls
 CCTV2 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/01.m3u8?fmt=ts2hls
